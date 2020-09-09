@@ -1,1 +1,1 @@
-# Demo
+# Type of Card
